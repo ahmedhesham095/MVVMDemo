@@ -1,0 +1,54 @@
+PODS:
+  - Alamofire (4.9.1)
+  - DataCache (1.5)
+  - moa (12.0.0)
+  - Moya (12.0.1):
+    - Moya/Core (= 12.0.1)
+  - Moya-ObjectMapper (2.8):
+    - Moya-ObjectMapper/Core (= 2.8)
+  - Moya-ObjectMapper/Core (2.8):
+    - Moya (~> 12.0)
+    - ObjectMapper (~> 3.4)
+  - Moya/Core (12.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.0)
+  - ObjectMapper (3.5.1)
+  - ReachabilitySwift (5.0.0)
+  - Result (4.1.0)
+  - SwiftPullToRefresh (3.1.1)
+
+DEPENDENCIES:
+  - DataCache
+  - moa
+  - Moya
+  - Moya-ObjectMapper
+  - ObjectMapper
+  - ReachabilitySwift
+  - SwiftPullToRefresh
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DataCache
+    - moa
+    - Moya
+    - Moya-ObjectMapper
+    - ObjectMapper
+    - ReachabilitySwift
+    - Result
+    - SwiftPullToRefresh
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  DataCache: 8099e01aa35c2fd30f3410aae14ef5a130f6524b
+  moa: e2346f12de6c65bbca4d103950d45db9e46785ef
+  Moya: cf730b3cd9e005401ef37a85143aa141a12fd38f
+  Moya-ObjectMapper: c514b5eafcfd5e260f85f7a5bf66895a217e2b37
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  SwiftPullToRefresh: f61d67439c5b8d66420fe57193cab8c279398e7a
+
+PODFILE CHECKSUM: 558569e47177329b4e2af2fec314b13c389a6057
+
+COCOAPODS: 1.8.4
